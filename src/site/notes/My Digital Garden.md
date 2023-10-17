@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-digital-garden/","noteIcon":""}
+{"dg-publish":true,"permalink":"/my-digital-garden/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 ## Hello World!
@@ -26,6 +26,5 @@ There are not that many trees in my garden (yet). These are the zones that are e
 There are a few different maps for this garden, each one tailored for the area of the garden that interests you the most. Go ahead and pick you, enjoy!
 
 - [[Spaces/School/School\|School]]
-- [[000 Home\|000 Home]]
 
 { .block-language-dataview}
