@@ -14,6 +14,8 @@ Life skills will be taught every 3rd Friday as well (10:00 - 11:00 am)
 - End of the year = May 15
 - Summer break = May 16 - September 9, 2024
 ## Classes
-- [[Spaces/School/Virtues/HUM 1101 - Vocation By Design\|HUM 1101 - Vocation By Design]]
+- [[Spaces/School/Virtues/REL1275 - Survey of Christian Apologetics\|REL1275 - Survey of Christian Apologetics]]
+- [[Spaces/School/Virtues/REL1011 - Introduction to New Testament\|REL1011 - Introduction to New Testament]]
+- [[Spaces/School/Virtues/HUM1101 - Vocation By Design\|HUM1101 - Vocation By Design]]
 
 { .block-language-dataview}
