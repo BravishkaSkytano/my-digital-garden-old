@@ -20,10 +20,11 @@ Congratulations! You have been introduced to the some of the young trees in my g
 ### Trees
 ![](/img/tree-3.svg)
 
-There are not that many trees in my garden (yet). These are the zones that are big and don't require much development, just some small up-keeping work.
+There are not that many trees in my garden (yet). These are the zones that are either big and don't require much development or ones I don't need to nurture much; they only require some small up-keeping work.
 
 ## Atlas
 There are a few different maps for this garden, each one tailored for the area of the garden that interests you the most. Go ahead and pick you, enjoy!
 
+- [[Spaces/School/School\|School]]
 
 { .block-language-dataview}
