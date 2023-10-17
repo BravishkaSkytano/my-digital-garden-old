@@ -25,6 +25,6 @@ There are not that many trees in my garden (yet). These are the zones that are e
 ## Atlas
 There are a few different maps for this garden, each one tailored for the area of the garden that interests you the most. Go ahead and pick you, enjoy!
 
-- [[Spaces/School/School\|School]]
+- [[Atlas/School\|School]]
 
 { .block-language-dataview}
