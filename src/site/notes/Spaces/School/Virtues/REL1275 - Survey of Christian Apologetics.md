@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/school/virtues/rel-1275-survey-of-christian-apologetics/","tags":["class"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/spaces/school/virtues/rel-1275-survey-of-christian-apologetics/","noteIcon":1}
 ---
 
 # Identification
