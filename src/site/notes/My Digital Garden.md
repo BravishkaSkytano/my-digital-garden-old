@@ -3,7 +3,7 @@
 ---
 
 ## Hello World!
-I go by many names, Bravishka, Mystake, Virtuous Student, as well as my real one (won't share yet). But no matter what name you know me by, this is my beautiful, and sometimes messy, [[zettelkasten\|zettelkasten]] full of knowledge that interests me. It was built with [Obsidian](https://obsidian.md/), [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden), as well as [[my favorite Obsidian plugins\|my favorite Obsidian plugins]].
+I go by many names, Bravishka, Mystake, Virtuous Student, as well as my real one (won't share yet). But no matter what name you know me by, this is my beautiful, and sometimes messy, [[zettelkasten\|zettelkasten]] full of knowledge that interests me. It was built with [Obsidian](https://obsidian.md/), [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden), as well as [[+/my favorite Obsidian plugins\|my favorite Obsidian plugins]].
 
 You're welcome to explore, just don't complain too much if (when) it gets chaotic. And who knows, maybe you will learn something cool and we can talk about it together next time we meet.
 ## Note Icons
@@ -26,5 +26,6 @@ There are not that many trees in my garden (yet). These are the zones that are e
 There are a few different maps for this garden, each one tailored for the area of the garden that interests you the most. Go ahead and pick you, enjoy!
 
 - [[Atlas/School\|School]]
+- [[Atlas/Books\|Books]]
 
 { .block-language-dataview}
