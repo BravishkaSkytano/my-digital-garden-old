@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/school/virtues/hum-1101-vocation-by-design/","tags":["class"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/spaces/school/virtues/hum-1101-vocation-by-design/","noteIcon":1}
 ---
 
 # Identification
