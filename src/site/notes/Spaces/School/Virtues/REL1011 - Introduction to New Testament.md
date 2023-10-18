@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spaces/school/virtues/rel-1011-introduction-to-new-testament/","tags":["class"],"noteIcon":1}
+{"dg-publish":true,"permalink":"/spaces/school/virtues/rel-1011-introduction-to-new-testament/","noteIcon":1}
 ---
 
 # Identification
