@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"//the-four-horns/","tags":["🌱"],"noteIcon":1}
 ---
 
-> [[Sources/Bible/Old Testament/27. Daniel/Dan 8#8\|Dan 8.8]] 
+> [[Sources/The WEB Bible/Daniel/Dan 8#8\|Dan 8.8]] 
 > **(8)** The male goat magnified himself exceedingly. When he was strong, the great horn was broken; and instead of it there came up four notable horns toward the four winds of the sky. 
 
 The four horns represented the four kingdoms of the Diadochi:
