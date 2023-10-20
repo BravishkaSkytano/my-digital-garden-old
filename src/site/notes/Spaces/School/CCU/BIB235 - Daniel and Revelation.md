@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/spaces/school/ccu/bib-235-daniel-and-revelation/","noteIcon":1}
 ---
 
+(up::[[Spaces/School/CCU/Calvary Chapel University\|Calvary Chapel University]])
 # Identification
 - Course Hours:
 - Course Days: 
@@ -17,3 +18,4 @@ earth, and the millennial reign of Christ.
 
 [[BIB235 Daniel _ Revelation 2023 Syllabus.pdf]]
 # Syllabus
+- [ ] Final Project 🔺 📅 2023-10-22 🛫 2023-10-19 
