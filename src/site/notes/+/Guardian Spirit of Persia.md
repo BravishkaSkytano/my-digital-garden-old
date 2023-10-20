@@ -8,6 +8,6 @@ Source: [[Sources/Books/Daniel by John F Walvoord\|Daniel by John F Walvoord]]
 
 Related:
 
-> [[Sources/Bible/Old Testament/27. Daniel/Dan 8#3\|Dan 8.3]]
+> [[Sources/The WEB Bible/Daniel/Dan 8#3\|Dan 8.3]]
 > **(3)** Then I lifted up my eyes, and saw, and behold, there stood before the river a ram which had two horns. The two horns were high; but one was higher than the other, and the higher came up last. 
 
