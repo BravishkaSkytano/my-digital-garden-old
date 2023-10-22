@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//the-hypostatic-union/","tags":["🌱"],"noteIcon":1}
+{"dg-publish":true,"permalink":"//the-hypostatic-union/","noteIcon":1}
 ---
 
 
