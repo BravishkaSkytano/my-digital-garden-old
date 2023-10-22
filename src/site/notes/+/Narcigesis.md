@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"//narcigesis/","tags":["🌱"],"noteIcon":1}
+{"dg-publish":true,"permalink":"//narcigesis/","noteIcon":1}
 ---
+
 
 > *Narcigesis* is a word of fairly recent coinage that has not yet found its way into dictionaries. When people use the word, they are referring to a process of interpreting Scripture in a highly personal, even selfish way.
 > 
