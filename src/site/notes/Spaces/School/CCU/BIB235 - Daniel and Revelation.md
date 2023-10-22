@@ -3,12 +3,12 @@
 ---
 
 (up::[[Spaces/School/CCU/Calvary Chapel University\|Calvary Chapel University]])
-# Identification
+## Identification
 - Course Hours:
-- Course Days: 
+- Course Days:
 - Credit Hours: 3.00
 - Faculty Contact: [[Jason Falzarano\|Jason Falzarano]]
-# Description
+## Description
 This course is designed to introduce you to the book of Daniel and Revelation. In this course we
 will look into the themes and theology of these prophetic masterpieces. This class will be an
 in-depth study of the books in a verse-by-verse format, in hopes that learners can better
@@ -17,5 +17,5 @@ the rapture of the church, the Great Tribulation, the Antichrist, the return of 
 earth, and the millennial reign of Christ.
 
 [[BIB235 Daniel _ Revelation 2023 Syllabus.pdf]]
-# Syllabus
-- [ ] Final Project 🔺 📅 2023-10-22 🛫 2023-10-19 
+## Syllabus
+- [ ] Final Project 🔺 📅 2023-10-22 🛫 2023-10-19
