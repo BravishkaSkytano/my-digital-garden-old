@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//zodiac-signs-based-on-astronomical-geography/","tags":["🌱"],"noteIcon":1}
+{"dg-publish":true,"permalink":"//zodiac-signs-based-on-astronomical-geography/","noteIcon":1}
 ---
 
 - Persia has the zodiac sign of Aries, the ram
