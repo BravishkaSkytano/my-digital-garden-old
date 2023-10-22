@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//my-work-experience/","tags":["🌱"],"noteIcon":1}
+{"dg-publish":true,"permalink":"//my-work-experience/","noteIcon":1}
 ---
 
 - Special needs teaching assistant volunteer
