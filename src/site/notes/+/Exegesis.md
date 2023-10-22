@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//exegesis/","tags":["🌱"],"noteIcon":1}
+{"dg-publish":true,"permalink":"//exegesis/","noteIcon":1}
 ---
 
 Borrowed from Ancient Greek ἐξήγησις (exḗgēsis, “interpretation”), from ἐξηγέομαι (exēgéomai, “I explain, interpret”), from ἐξ (ex, “out”) + ἡγέομαι (hēgéomai, “I lead, guide”).
