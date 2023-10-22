@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//my-favorite-obsidian-plugins/","tags":["🌱"],"noteIcon":1}
+{"dg-publish":true,"permalink":"//my-favorite-obsidian-plugins/","noteIcon":1}
 ---
 
 - Dataview
