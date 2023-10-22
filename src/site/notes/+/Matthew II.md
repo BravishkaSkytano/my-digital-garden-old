@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"//matthew-ii/","tags":["🌱"],"noteIcon":1}
+{"dg-publish":true,"permalink":"//matthew-ii/","noteIcon":1}
 ---
 
