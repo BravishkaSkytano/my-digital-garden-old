@@ -1,0 +1,185 @@
+body {
+	--wide-tbl-left-ev-adj: -4rem;
+	--wide-tbl-min-left-ev: 0.5rem;
+	--wide-tbl-width-ev: calc( var(--file-line-width) - var(--wide-tbl-left-ev-adj) );
+	--wide-dv-left-ev-adj: -4rem;
+	--wide-dv-min-left-ev: 0.5rem;
+	--wide-dv-width-ev: calc( var(--file-line-width) - var(--wide-dv-left-ev-adj) );
+	--wide-co-left-ev-adj: -3.8rem;
+	--wide-co-min-left-ev: 0.5rem;
+	--wide-co-width-ev-adj: 4rem;
+	--wide-co-width-ev: calc(var(--file-line-width) - var(--wide-co-left-ev-adj) );
+	--wide-bl-left-ev-adj: 4rem;
+	--wide-bl-width-ev: calc(var(--file-line-width) + var(--wide-bl-left-ev-adj) );
+	.wide-page {
+		--file-line-width: 100%;
+	}
+	&.is-adj-rll {
+		.view-content {
+			--file-line-width: var(--adj-rll-max-width);
+		}
+	}
+	&:has(.cm-gutters) {
+		--wide-tbl-left-ev-adj: 1rem;
+		--wide-tbl-min-left-ev: 6rem;
+		--wide-dv-left-ev-adj: 1.7rem;
+		--wide-dv-min-left-ev: 6.5rem;
+		--wide-co-left-ev-adj: 1.7rem;
+		--wide-co-min-left-ev: 6.5rem;
+	}
+	&.minimal-theme {
+		--folding-toggle: 0;
+		&:not(:has(.cm-gutters)) {
+			--folding-toggle: 1;
+		}
+	}
+}
+body[class*="minimal-tab-title"] {
+	.wide-page {
+		--line-width: 100%;
+		--max-width: 95%;
+		--container-table-width: var(--line-width);
+		--container-table-max-width: var(--max-width);
+	}
+}
+.narrow-page.markdown-source-view .cm-sizer,
+    .narrow-page.markdown-preview-view .markdown-preview-sizer {
+	max-width: var(--file-line-width);
+	margin-inline: auto;
+}
+:is(.wide-table-global, .wide-dataview-global, .wide-callout-global, .wide-backlinks-global) .markdown-source-view.is-readable-line-width,
+    :is(.wide-table-global, .wide-dataview-global, .wide-callout-global, .wide-backlinks-global) .markdown-preview-view.is-readable-line-width,
+    :is(.wide-table, .wide-dataview, .wide-callout, .wide-backlinks).markdown-source-view.is-readable-line-width,
+    :is(.wide-table, .wide-dataview, .wide-callout, .wide-backlinks).markdown-preview-view.is-readable-line-width {
+	container-name: content-view;
+	container-type: inline-size;
+}
+@container {
+	content-view {
+		(width {
+			& > 50px) {
+				: is(.wide-table-global, .wide-table) .cm-embed-block.cm-table-widget {
+            width: calc(100cqi - 4rem);
+				margin-left: calc( max( 100cqi - var(--wide-tbl-width-ev), var(--wide-tbl-min-left-ev) ) / 2 * -1 ) !important;
+				body[class*="minimal-tab-title"][class*="wide-table-global"] .markdown-source-view .cm-contentContainer.cm-contentContainer .cm-embed-block.cm-table-widget,
+            body[class*="minimal-tab-title"] .wide-table.markdown-source-view .cm-contentContainer.cm-contentContainer .cm-embed-block.cm-table-widget {
+                width: calc(100cqi - 4rem) !important;
+				max-width: 100%;
+				margin-left: calc( var(--wide-tbl-left-adj) / 2 * -1 ) !important;
+				: is(.wide-dataview-global, .wide-dataview) .cm-preview-code-block:has(> .block-language-dataview) {
+            width: calc(100cqi - 4rem );
+				margin-left: calc( max( 100cqi - var(--wide-dv-width-ev), var(--wide-dv-min-left-ev) ) / 2 * -1 ) !important;
+				body[class*="minimal-tab-title"][class*="wide-dataview-global"] .markdown-source-view .cm-contentContainer.cm-contentContainer .cm-content .cm-preview-code-block: has(> .block-language-dataview),
+            body[class*="minimal-tab-title"] .wide-dataview.markdown-source-view .cm-contentContainer.cm-contentContainer .cm-content .cm-preview-code-block:has(> .block-language-dataview) {
+                width: calc(100cqi - 4rem);
+				max-width: 100%;
+				margin-left: calc( var(--wide-dv-left-ev-adj) / 2 * -1 ) !important;
+				: is(.wide-callout-global, .wide-callout) .cm-embed-block.cm-callout {
+            width: calc( 100cqi - var(--wide-co-width-ev-adj) );
+				margin-left: calc( max( 100cqi - var(--wide-co-width-ev), var(--wide-co-min-left-ev) ) / 2 * -1 ) !important;
+				body[class*="minimal-tab-title"][class*="wide-callout-global"] .markdown-source-view .cm-contentContainer.cm-contentContainer .cm-content .cm-embed-block.cm-callout,
+            body[class*="minimal-tab-title"] .wide-callout.markdown-source-view .cm-contentContainer.cm-contentContainer .cm-content .cm-embed-block.cm-callout {
+                width: calc(100cqi - 4rem);
+				max-width: 100%;
+				margin-left: calc( var(--folding-offset) * var(--folding-toggle) ) !important;
+				: is(.wide-backlinks-global .markdown-source-view, .wide-backlinks.markdown-source-view) .embedded-backlinks {
+            width: calc(100cqi - 3.5rem);
+				margin-left: calc( max( 100cqi - var(--wide-bl-width-ev), 1rem ) / 2 * -1 );
+				body[class*="minimal-tab-title"][class*="wide-backlinks-global"] .markdown-source-view .cm-sizer .embedded-backlinks,
+            body[class*="minimal-tab-title"] .wide-backlinks.markdown-source-view .cm-sizer .embedded-backlinks {
+                width: calc(100cqi - 4.5rem);
+				max-width: unset;
+				margin-left: calc( var(--wide-bl-width-adj) / 2 * 1 ) !important;
+			}
+		}
+	}
+}
+:is(.wide-table-global .markdown-preview-view, .wide-table.markdown-preview-view) div:has(> table) {
+	width: 100cqi;
+	margin-left: calc( max( 100cqi - var(--file-line-width), 1rem ) / 2 * -1 ) !important;
+}
+:is(.wide-table-global, .wide-table) .cm-embed-block.cm-table-widget table,
+        :is(.wide-table-global .markdown-preview-view, .wide-table.markdown-preview-view) div > table {
+	margin-inline: auto;
+}
+} {
+	body[class*="minimal-tab-title"] {
+		--wide-tbl-left-adj: -4rem;
+		--wide-tbl-width-adj: 2rem;
+		--wide-dv-width-adj: 2rem;
+		--folding-toggle: 1;
+		--wide-bl-width-adj: 4rem;
+	}
+	body[class*="ctp-"].is-adj-rll {
+		&:not([class*="anp-default"]) {
+			--wide-tbl-left-ev-adj: -8rem;
+			--wide-dv-left-ev-adj: -8rem;
+			--wide-bl-left-ev-adj: 13.5rem;
+		}
+	}
+	body[class*="anp-"] {
+		--wide-co-width-ev-adj: 3.5rem;
+	}
+}
+body[class*="minimal-tab-title"]:has(.cm-gutters) {
+	--wide-tbl-left-adj: -4rem;
+	--wide-tbl-width-adj: 0rem;
+	--wide-dv-left-ev-adj: -4rem;
+	--wide-dv-width-adj: 0rem;
+	--wide-bl-width-adj: 0rem;
+}
+body[class*="minimal-tab-title"]:has(.cm-gutters).minimal-theme {
+	--wide-tbl-left-adj: 0rem;
+	--wide-dv-left-ev-adj: 0rem;
+}
+body[class*="minimal-tab-title"][class*="wide-table-global"] .markdown-preview-view .markdown-preview-sizer div:has(> table),
+            body[class*="minimal-tab-title"] .wide-table.markdown-preview-view .markdown-preview-sizer div:has(> table) {
+	width: calc(100cqi - 2rem - var(--wide-tbl-width-adj) ) !important;
+	max-width: 100%;
+	margin-left: calc( var(--wide-tbl-left-adj) / 2 * -1 ) !important;
+}
+body[class*="minimal-tab-title"][class*="wide-table-global"] .markdown-source-view .cm-contentContainer.cm-contentContainer .cm-embed-block.cm-table-widget table,
+            body[class*="minimal-tab-title"] .wide-table.markdown-source-view .cm-contentContainer.cm-contentContainer .cm-embed-block.cm-table-widget table,
+            body[class*="minimal-tab-title"][class*="wide-table-global"] .markdown-preview-view .markdown-preview-sizer div > table,
+            body[class*="minimal-tab-title"] .wide-table.markdown-preview-view .markdown-preview-sizer div > table {
+	margin-inline: auto;
+}
+:is(.wide-dataview-global, .wide-dataview) div:has(> .block-language-dataview) {
+	width: 100cqi;
+	margin-left: calc( max( 100cqi - var(--file-line-width), 1rem ) / 2 * -1 ) !important;
+}
+body[class*="minimal-tab-title"][class*="wide-dataview-global"] .markdown-preview-view div:has(> .block-language-dataview),
+            body[class*="minimal-tab-title"] .wide-dataview.markdown-preview-view div:has(> .block-language-dataview) {
+	width: calc(100cqi - 2rem - var(--wide-dv-width-adj) );
+	max-width: 100%;
+	margin-left: calc( var(--wide-dv-left-ev-adj) / 2 * -1 ) !important;
+}
+body[class*="minimal-tab-title"][class*="wide-dataview-global"] .markdown-source-view .cm-contentContainer.cm-contentContainer .cm-content table,
+            body[class*="minimal-tab-title"] .wide-dataview.markdown-source-view .cm-contentContainer.cm-contentContainer .cm-content table,
+            body[class*="minimal-tab-title"] .wide-dataview.markdown-preview-view .markdown-preview-sizer div > table {
+	width: calc( 100% );
+}
+:is(.wide-callout-global, .wide-callout) .markdown-preview-sizer > div:has(> .callout) {
+	width: 100cqi;
+	margin-left: calc( max( 100cqi - var(--file-line-width), 1rem ) / 2 * -1 ) !important;
+}
+body[class*="minimal-tab-title"][class*="wide-callout-global"] .markdown-preview-view .markdown-preview-sizer > div:has(> .callout),
+            body[class*="minimal-tab-title"] .wide-callout.markdown-preview-view .markdown-preview-sizer > div:has(> .callout) {
+	width: calc(100cqi - 2rem - 2rem * var(--folding-toggle) );
+	max-width: calc(100% - 0rem);
+	margin-left: calc( var(--folding-offset) * var(--folding-toggle) ) !important;
+}
+body[class*="ctp-"].is-adj-rll {
+	&:not([class*="anp-default"]) {
+		--wide-co-left-ev-adj: -7.8rem;
+	}
+}
+:is(.wide-backlinks-global .markdown-preview-view, .wide-backlinks.markdown-preview-view) .embedded-backlinks {
+	width: calc(100cqi - 0rem);
+	margin-left: calc( max( 100cqi - var(--file-line-width), 1rem ) / 2 * -1 );
+}
+body[class*="minimal-tab-title"][class*="wide-backlinks-global"] .markdown-preview-view .embedded-backlinks,
+            body[class*="minimal-tab-title"] .wide-backlinks.markdown-preview-view .embedded-backlinks {
+	width: calc( 100cqi - 2rem - var(--wide-bl-width-adj)/2 );
+	margin-left: calc( max( 100cqi - var(--line-width) - var(--wide-bl-width-adj) , 4rem ) / 2 * -1 ) !important;
+}
