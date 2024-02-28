@@ -3,7 +3,16 @@
 ---
 
 
-![[Daniel 8#8\|Daniel 8#8]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+###### 8
+Thus the goat became very great, but at the height of his power, his large horn was broken off, and four prominent horns came up in its place, pointing toward the four winds of heaven.
+
+</div></div>
+
 
 The four horns represented the four kingdoms of the Diadochi:
 1. Macedonia and Greece, ruled by Cassander
