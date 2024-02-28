@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-prose/22-nonfiction/22-01-bible-history/the-seven-churches-of-asia-minor/laodicea/"}
+{"dg-publish":true,"permalink":"/20-29-prose/22-nonfiction/22-01-bible-history/the-seven-churches-of-asia-minor/laodicea/","created":"2023-10-21"}
 ---
 
 Like [[20-29 Prose/22 Nonfiction/22.01 Bible History/The Seven Churches of Asia Minor/The 7 Churches of Asia Minor\|The 7 Churches of Asia Minor]] and [[20-29 Prose/22 Nonfiction/22.01 Bible History/The Seven Churches of Asia Minor/Thyatira\|Thyatira]], Laodicea was a prosperous industrial and commercial center. It was located in Phrygia’s Lycus Valley, six miles south of Hierapolis. They had a horrible water supply and used aqueducts to pipe water from the hotsprings of Hierapolis for Roman baths. The problem with this is that by the time it arrived, it was lukewarm and not very soothing.
