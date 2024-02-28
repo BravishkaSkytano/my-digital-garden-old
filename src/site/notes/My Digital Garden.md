@@ -11,19 +11,3 @@ With that out of the way, just a fair warning, not everything in this garden wil
 Anywho, see ya later, alligator!
 
 (P.S. no, I’m not British, and I’m not a crazy scientist, I’m just a writer who likes to have fun and make people smile. So, yeah, sometimes I talk like this and act silly just because 😁)
-
-```localquote
-id 4czCa
-search *
-refresh 1d
-```
-
-## Currently Reading
-
-| Cover                                                                                                                       | title                   | author                                                                                                             | series | Progress                                      |
-| --------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------ | ------ | --------------------------------------------- |
-| ![cover\|80](https://books.google.com/books/publisher/content/images/frontcover/09k-rgEACAAJ?fife=w600-h900&source=gbs_api) | Understanding the Times | <ul><li>[[00-09 System/01 Inbox/Jeff Myers.md\\|Jeff Myers]]</li><li>[[David A Noebel\\|David A Noebel]]</li></ul> | \-     | <progress value='0' max='100'> </progress> 0% |
-
-{ .block-language-dataview}
-
-## Recently Read
