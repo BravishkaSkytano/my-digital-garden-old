@@ -1,29 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/60-69-bookshelf/archangel-s-kiss-nalini-singh/","title":"Archangel's Kiss","tags":["quotes"],"created":"2024-02-27"}
+{"dg-publish":true,"permalink":"/60-69-bookshelf/archangel-s-kiss-nalini-singh/","tags":["quotes"],"created":"2024-02-27","updated":"2024-02-28T15:27:48-05:00"}
 ---
 
 
-```meta-bind
-INPUT[select(title(Shelf), option(to-read), option(reading), option(abandoned), option(read)):shelf]
-```
-
-```meta-bind
-INPUT[number(defaultValue(0), title(Progress)):progress]
-```
-
-![cover|150](http://books.google.com/books/content?id=OIW90It28wwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
-
-
-
-## Archangel's Kiss
-
-### Description
-
-In this Guild Hunter novel, New York Times bestselling author Nalini Singh returns to her world of angelic rulers, vampiric servants, and the woman thrust into their darkly seductive world... Vampire hunter Elena Deveraux wakes from a year-long coma to find herself changed—an angel with wings of midnight and dawn—but her fragile body needs time to heal before she can take flight. Her lover, the stunningly dangerous archangel Raphael, is used to being in control—especially when it comes to the woman he considers his own. But Elena has never done well with authority... They’ve barely begun to learn each other when Raphael receives an invitation to a ball from the archangel Lijuan. To refuse would be a sign of fatal weakness, so Raphael must ready Elena for the flight to Beijing—and to the nightmare that awaits. For ancient and without conscience, Lijuan’s power lies with the dead. And she has organized the most perfect and most vicious of welcomes for Elena...
-
 ## Quotes
 
-:::Nalini Singh, *Archangel’s Kiss*:::
+:::Nalini Singh, Archangel’s Kiss:::
 - “Reason without emotion is often a mask for cruelty; emotion without reason can allow people to excuse all sorts of excesses.”
 - “They didn't understand that she held his heart, held it so utterly that there was nothing he wouldn't do, no line he wouldn't cross to keep her safe.”
 - “Tell me something, Raphael?”
