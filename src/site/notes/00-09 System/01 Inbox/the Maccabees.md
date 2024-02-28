@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-system/01-inbox/the-maccabees/"}
+{"dg-publish":true,"permalink":"/00-09-system/01-inbox/the-maccabees/","created":"2023-10-03"}
 ---
 
 
