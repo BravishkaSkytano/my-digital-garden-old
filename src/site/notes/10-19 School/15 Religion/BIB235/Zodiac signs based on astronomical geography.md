@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-school/15-religion/bib-235/zodiac-signs-based-on-astronomical-geography/"}
+{"dg-publish":true,"permalink":"/10-19-school/15-religion/bib-235/zodiac-signs-based-on-astronomical-geography/","created":"2023-10-03","updated":"2024-02-14"}
 ---
 
 - Persia has the zodiac sign of Aries, the ram
 - Greece had the zodiac sign of Capricorn, the goat.
 
-Source: [[50-59 Sources/51 Books/Daniel by John F Walvoord\|Daniel by John F Walvoord]]
+Source: [[Daniel - John F Walvoord\|Daniel - John F Walvoord]]
