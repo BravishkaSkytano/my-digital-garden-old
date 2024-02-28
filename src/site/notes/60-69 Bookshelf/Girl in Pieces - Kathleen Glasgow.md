@@ -1,29 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/60-69-bookshelf/girl-in-pieces-kathleen-glasgow/","title":"Girl in Pieces","tags":["quotes"],"created":"2024-02-27"}
+{"dg-publish":true,"permalink":"/60-69-bookshelf/girl-in-pieces-kathleen-glasgow/","tags":["quotes"],"created":"2024-02-27","updated":"2024-02-28T15:29:54-05:00"}
 ---
 
 
-```meta-bind
-INPUT[select(title(Shelf), option(to-read), option(reading), option(abandoned), option(read)):shelf]
-```
+## Quotes
 
-```meta-bind
-INPUT[number(defaultValue(0), title(Progress)):progress]
-```
-
-![cover|150](http://books.google.com/books/content?id=oPdQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
-
-
-
-## Girl in Pieces
-
-### Description
-
-#1 NEW YORK TIMES BESTSELLER "A haunting, beautiful, and necessary book."—Nicola Yoon, #1 New York Times bestselling author of Everything, Everything Charlotte Davis is in pieces. At seventeen she’s already lost more than most people do in a lifetime. But she’s learned how to forget. The broken glass washes away the sorrow until there is nothing but calm. You don’t have to think about your father and the river. Your best friend, who is gone forever. Or your mother, who has nothing left to give you. Every new scar hardens Charlie’s heart just a little more, yet it still hurts so much. It hurts enough to not care anymore, which is sometimes what has to happen before you can find your way back from the edge. A deeply moving portrait of a girl in a world that owes her nothing, and has taken so much, and the journey she undergoes to put herself back together. Kathleen Glasgow's debut is heartbreakingly real and unflinchingly honest. It’s a story you won’t be able to look away from. And don’t miss Kathleen Glasgow's novels You’d Be Home Now and How to Make Friends with the Dark, both raw and powerful stories of life.
-
-### Quotes
-
-:::Kathleen Glasgow, *Girl in Pieces*:::
+:::Kathleen Glasgow, Girl in Pieces:::
 - because while I say sadness what I really mean is black hole inside me filled with nails and rocks and broken glass and the words I don’t have anymore.
 - One day a week, on Sundays, no one asks us how we’re feeling and that makes some of us feel lost. Jen S. will say, mockingly, “I am having too many feelings! I need someone to hear my feelings!”
 - My body is on fire all the time, burning me away day and night. I have to cut the black heat out. When I clean myself, wash and mend, I feel better. Cooler inside and calm. Like moss feels, when you get far back in the woods.
