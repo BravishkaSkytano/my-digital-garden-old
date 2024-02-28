@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-system/01-inbox/guardian-spirit-of-persia/"}
+{"dg-publish":true,"permalink":"/00-09-system/01-inbox/guardian-spirit-of-persia/","tags":["update"],"created":"2023-10-03","updated":"2024-02-14"}
 ---
 
 A ram with clean feet and sharp-pointed horns is the guardian spirit of Persia. The king would hold the head of a ram when he was at the head of the army.
 
-Source: [[50-59 Sources/51 Books/Daniel by John F Walvoord\|Daniel by John F Walvoord]]
+Source: [[Daniel by John F Walvoord\|Daniel by John F Walvoord]]
 
 Related:
 
