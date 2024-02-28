@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-system/01-inbox/hermeneutics/"}
+{"dg-publish":true,"permalink":"/00-09-system/01-inbox/hermeneutics/","created":"2023-10-03","updated":"2024-02-14"}
 ---
 
 
