@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-system/01-inbox/medo-persian-s-advancements/"}
+{"dg-publish":true,"permalink":"/00-09-system/01-inbox/medo-persian-s-advancements/","tags":["update"],"created":"2023-10-03","updated":"2024-02-14"}
 ---
 
 Medo-Persian took over Palestine, Asia Minor, and Egypt.
-
-Source: [[50-59 Sources/51 Books/Daniel by John F Walvoord\|Daniel by John F Walvoord]]
 
 Related:
 
