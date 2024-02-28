@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-prose/22-nonfiction/22-01-bible-history/the-seven-churches-of-asia-minor/sardis/"}
+{"dg-publish":true,"permalink":"/20-29-prose/22-nonfiction/22-01-bible-history/the-seven-churches-of-asia-minor/sardis/","created":"2023-10-20"}
 ---
 
 Sardis was the ancient capital of the Lydian Kingdoms and overcame multiple conquest attempts. It was originally founded by the Hittites in 1200 B.C. but it was captured by Persians in 550 B.C. before becoming a center for gold mining for Lydia.
