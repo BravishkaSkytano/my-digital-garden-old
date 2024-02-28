@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-prose/22-nonfiction/22-01-bible-history/the-seven-churches-of-asia-minor/philadelphia/"}
+{"dg-publish":true,"permalink":"/20-29-prose/22-nonfiction/22-01-bible-history/the-seven-churches-of-asia-minor/philadelphia/","created":"2023-10-21"}
 ---
 
 Philadelphia was founded by King Attalus II of [[20-29 Prose/22 Nonfiction/22.01 Bible History/The Seven Churches of Asia Minor/Pergamum\|Pergamum]] in 150 B.C. and became known as the “[[Gateway to the East\|Gateway to the East]].” Its trademark consisted of grapes, textiles, and leather goods. And during the Byzantine times, it became an important center of Christianity.
