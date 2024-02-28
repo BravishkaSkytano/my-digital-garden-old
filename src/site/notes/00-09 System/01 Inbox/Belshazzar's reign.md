@@ -1,7 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-system/01-inbox/belshazzar-s-reign/"}
+{"dg-publish":true,"permalink":"/00-09-system/01-inbox/belshazzar-s-reign/","tags":["update"],"created":"2023-10-03","updated":"2024-02-16"}
 ---
 
-Belshazzar had served in leadership from 560 B.C. but he became coregent in 553 B.C. during the second year of Nabonidus. [[Dan 8\|Dan 8]] was written in his third year, 2 years after [[Dan 7\|Dan 7]] and twelve years before [[Dan 5\|Dan 5]].
-
-Source: [[50-59 Sources/51 Books/Daniel by John F Walvoord\|Daniel by John F Walvoord]]
+Belshazzar had served in leadership from 560 B.C. but he became co-regent in 553 B.C. during the second year of Nabonidus. [[Daniel 8\|Daniel 8]] was written in his third year, 2 years after [[Daniel 7\|Daniel 7]] and twelve years before [[Daniel 5\|Daniel 5]].
