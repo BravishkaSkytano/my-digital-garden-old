@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-prose/22-nonfiction/22-01-bible-history/the-seven-churches-of-asia-minor/thyatira/"}
+{"dg-publish":true,"permalink":"/20-29-prose/22-nonfiction/22-01-bible-history/the-seven-churches-of-asia-minor/thyatira/","created":"2023-10-20"}
 ---
 
 Thyatira was founded by the Lydians and conquered [[Alexander the Great\|Alexander the Great]]‘s general Seleucus Nicanor in the third century B.C. and it became a wealthy commercial city. When one mentioned Thyatira, what came to mind were their cloth making and dying industries and the expensive purple dye that extracted from murex shellfish. The Lydia mentioned in Acts was a Jewish overseas agent for a Thyatian cloth manufactor.
