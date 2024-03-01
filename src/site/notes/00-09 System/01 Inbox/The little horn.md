@@ -25,4 +25,4 @@ It grew as high as the host of heaven, and it cast down some of the host and som
 
 Most of the controversy of this vision is due to the "little horn."" Refers to Syria with Egypt being "the south," ancient Medo-Persia or Armenia being "the east" and Israel or Canaan, or more specifically Jerusalem as the "glorious land."
 
-This is fulfilled by [[50-59 Sources/54 People/54.03 Historical Figures/Antiochus Epiphanes\|Antiochus Epiphanes]]
+This is fulfilled by [[10-19 School/12 Social science/Historical Figures/Antiochus Epiphanes\|Antiochus Epiphanes]]
