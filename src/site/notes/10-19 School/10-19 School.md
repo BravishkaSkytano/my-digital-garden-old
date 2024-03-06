@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-school/10-19-school/","updated":"2024-02-14"}
+{"dg-publish":true,"permalink":"/10-19-school/10-19-school/","updated":"2024-03-06T13:40:04-05:00"}
 ---
 
 
@@ -10,7 +10,5 @@
 - **[12 Social science](./12%20Social%20science/12%20Social%20science.md)**
 - **[13 Science](./13%20Science/13%20Science.md)**
 - **[14 Foreign language](./14%20Foreign%20language/14%20Foreign%20language.md)**
-- **[15 Religion](./15%20Religion/15%20Religion.md)**
-- [[10-19 School/Humanities\|Humanities]]
-- [[10-19 School/MAT111 College Mathematics\|MAT111 College Mathematics]]
+- **[15 Humanities](./15%20Humanities/15%20Humanities.md)**
 
