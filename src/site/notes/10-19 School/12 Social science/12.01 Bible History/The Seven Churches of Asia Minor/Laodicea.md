@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/10-19-school/12-social-science/12-01-bible-history/the-seven-churches-of-asia-minor/laodicea/","created":"2023-10-21","updated":"2024-02-28T15:19:46-05:00"}
----
-
-Like [[10-19 School/12 Social science/12.01 Bible History/The Seven Churches of Asia Minor/Thyatira\|Thyatira]], Laodicea was a prosperous industrial and commercial center. It was located in Phrygia’s Lycus Valley, six miles south of Hierapolis. They had a horrible water supply and used aqueducts to pipe water from the hotsprings of Hierapolis for Roman baths. The problem with this is that by the time it arrived, it was lukewarm and not very soothing.
-
-The church in Laodicea was established by Epaphras during Paul’s three-year stay at Ephesus. Sadly, all the grandeur that came from its economic prosperity led to the spiritual bankruptcy of the church, and the complacency during abundant times led to lukewarm hearts. When Jesus addressed them, He spoke about the solutions for spiritual poverty, spiritual nakedness, spiritual blindness, spiritual compromise, and their un-Christlike behavior. He compared them to their water supply, saying that it would be better for them to either be faithful followers or unrepentant sinners, instead of playing both sides. The solution was simply to spend more time with God and less time investing in the riches of this world.
