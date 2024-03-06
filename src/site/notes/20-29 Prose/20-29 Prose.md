@@ -18,8 +18,9 @@
 	- **21.01 Mystery & Thriller**
 	- **21.02 Fantasy**
 	- **21.03 Romance**
-		- **[New Book](./21%20Fiction/21.03%20Romance/New%20Book/New%20Book.md)**
-			- [[20-29 Prose/21 Fiction/21.03 Romance/New Book/Index\|Index]]
+		- **[Lights in the Shadows, Book 1](./21%20Fiction/21.03%20Romance/Lights%20in%20the%20Shadows,%20Book%201/Lights%20in%20the%20Shadows,%20Book%201.md)**
+			- [[20-29 Prose/21 Fiction/21.03 Romance/Lights in the Shadows, Book 1/Index\|Index]]
+			- [[20-29 Prose/21 Fiction/21.03 Romance/Lights in the Shadows, Book 1/Introduction\|Introduction]]
 	- **[21.04 Bildungsroman](./21%20Fiction/21.04%20Bildungsroman/21.04%20Bildungsroman.md)**
 	- **[Coyote](./21%20Fiction/Coyote/Coyote.md)**
 		- [[20-29 Prose/21 Fiction/Coyote/Chapter 1\|Chapter 1]]
