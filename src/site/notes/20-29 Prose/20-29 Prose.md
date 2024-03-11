@@ -1,6 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-prose/20-29-prose/","updated":"2024-02-28T16:06:46-05:00"}
+{"dg-publish":true,"permalink":"/20-29-prose/20-29-prose/","tags":["moc"],"updated":"2024-03-11"}
 ---
+
+
+> [!multi-column]
+> 
+> > [!map] Parents
+> > [[Home\|Home]] 💠 [[My Digital Garden\|My Digital Garden]]
+> 
+> > [!map] Siblings
+> > [[00-09 System/00-09 System\|00-09 System]] 💠 [[10-19 School/10-19 School\|10-19 School]] 💠 [[30-39 Worldbuilding/30-39 Worldbuilding\|30-39 Worldbuilding]] 💠 [[40-49 Characters/40-49 Characters\|40-49 Characters]] 💠 [[50-59 Sources/50-59 Sources\|50-59 Sources]] 💠 [[60-69\|60-69]] 💠 [[70-79\|70-79]] 💠 [[80-89\|80-89]] 💠 [[90-99\|90-99]]
 
 **Definition:** a form of written language that follows the natural flow of everyday speech.
 
@@ -8,22 +17,8 @@
 
 **Example:** works of philosophy, history, economics, etc., journalism, and most fiction.
 
----
-
-
-- **20 Meta**
-	- **[20.01 Random scraps of writings](./20%20Meta/20.01%20Random%20scraps%20of%20writings/20.01%20Random%20scraps%20of%20writings.md)**
-	- [[20-29 Prose/20 Meta/20.02 Videos\|20.02 Videos]]
-- **21 Fiction**
-	- **21.01 Mystery & Thriller**
-	- **21.02 Fantasy**
-	- **21.03 Romance**
-		- **[Lights in the Shadows, Book 1](./21%20Fiction/21.03%20Romance/Lights%20in%20the%20Shadows,%20Book%201/Lights%20in%20the%20Shadows,%20Book%201.md)**
-			- [[20-29 Prose/21 Fiction/21.03 Romance/Lights in the Shadows, Book 1/Index\|Index]]
-			- [[20-29 Prose/21 Fiction/21.03 Romance/Lights in the Shadows, Book 1/Introduction\|Introduction]]
-	- **[21.04 Bildungsroman](./21%20Fiction/21.04%20Bildungsroman/21.04%20Bildungsroman.md)**
-	- **[Coyote](./21%20Fiction/Coyote/Coyote.md)**
-		- [[20-29 Prose/21 Fiction/Coyote/Chapter 1\|Chapter 1]]
-- **22 Nonfiction**
-- **23 Poetry**
-
+> [!map] Children
+>  - [[20-29 Prose/20 Meta/20 Meta\|20 Meta]]
+> - [[20-29 Prose/21 Fiction/21 Fiction\|21 Fiction]]
+> 
+{ .block-language-dataview}
