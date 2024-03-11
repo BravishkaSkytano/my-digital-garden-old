@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-worldbuilding/30-39-worldbuilding/","updated":"2024-02-28T17:34:07-05:00"}
+{"dg-publish":true,"permalink":"/30-39-worldbuilding/30-39-worldbuilding/","updated":"2024-03-08T22:04:02-05:00"}
 ---
 
+
+> [!map] 
+> [[00-09 System/00-09 System\|00-09 System]] 💠 [[10-19 School/10-19 School\|10-19 School]] 💠 [[20-29 Prose/20-29 Prose\|20-29 Prose]] 💠 [[40-49 Characters/40-49 Characters\|40-49 Characters]] 💠 [[50-59 Sources/50-59 Sources\|50-59 Sources]]
 
 > Worldbuilding is the process of creating a fictional world, often for use in speculative fiction, such as science fiction, fantasy, or horror. There are several different categories of worldbuilding, including:
 > 
