@@ -1,6 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-school/15-humanities/15-humanities/","created":"2024-02-28","updated":"2024-03-04T20:36:06-05:00"}
+{"dg-publish":true,"permalink":"/10-19-school/15-humanities/15-humanities/","tags":["moc"],"created":"2024-02-28","updated":"2024-03-11"}
 ---
+
+
+> [!multi-column]
+> 
+> > [!map] Parents
+> > [[10-19 School/10-19 School\|10-19 School]]
+> 
+> > [!map] Siblings
+> > [[10-19 School/00 Meta/00 Meta\|00 Meta]] 💠 [[10-19 School/11 English/11 English\|11 English]] 💠 [[10-19 School/12 Social science/12 Social science\|12 Social science]] 💠 [[10-19 School/13 Science/13 Science\|13 Science]] 💠 [[10-19 School/14 Foreign language/14 Foreign language\|14 Foreign language]] 💠 [[16\|16]] 💠 [[17\|17]] 💠 [[18\|18]] 💠 [[19\|19]]
 
 > The humanities are academic disciplines that study human culture, behavior, and experience. They include fields such as history, literature, philosophy, languages, and the arts. The humanities seek to understand the human condition and the ways in which individuals and societies have expressed themselves throughout history.
 > 
@@ -21,36 +30,9 @@
 
 Don’t confuse humanities with [[10-19 School/12 Social science/12 Social science\|social science]], the two are [[10-19 School/13 Science/Social science vs humanities\|distinctly different]].
 
-
-- **15.01 Religion**
-	- **BIB235**
-		- [[10-19 School/15 Humanities/15.01 Religion/BIB235/2,300 evenings and mornings\|2,300 evenings and mornings]]
-		- [[10-19 School/15 Humanities/15.01 Religion/BIB235/4 beasts\|4 beasts]]
-		- [[10-19 School/15 Humanities/15.01 Religion/BIB235/The four horns\|The four horns]]
-		- [[10-19 School/15 Humanities/15.01 Religion/BIB235/The one-horned goat\|The one-horned goat]]
-		- [[10-19 School/15 Humanities/15.01 Religion/BIB235/W3 Audio Lectures\|W3 Audio Lectures]]
-		- [[10-19 School/15 Humanities/15.01 Religion/BIB235/W4 Audio Lectures\|W4 Audio Lectures]]
-		- [[10-19 School/15 Humanities/15.01 Religion/BIB235/W5 Audio Lectures\|W5 Audio Lectures]]
-		- [[10-19 School/15 Humanities/15.01 Religion/BIB235/Zodiac signs based on astronomical geography\|Zodiac signs based on astronomical geography]]
-	- [[10-19 School/15 Humanities/15.01 Religion/Christianity\|Christianity]]
-	- **Church History**
-		- [[10-19 School/15 Humanities/15.01 Religion/Church History/Ephesus\|Ephesus]]
-		- [[10-19 School/15 Humanities/15.01 Religion/Church History/Laodicea\|Laodicea]]
-		- [[10-19 School/15 Humanities/15.01 Religion/Church History/Pergamum\|Pergamum]]
-		- [[10-19 School/15 Humanities/15.01 Religion/Church History/Philadelphia\|Philadelphia]]
-		- [[10-19 School/15 Humanities/15.01 Religion/Church History/Sardis\|Sardis]]
-		- [[10-19 School/15 Humanities/15.01 Religion/Church History/Smyrna\|Smyrna]]
-		- [[10-19 School/15 Humanities/15.01 Religion/Church History/Thyatira\|Thyatira]]
-	- [[10-19 School/15 Humanities/15.01 Religion/Predestination\|Predestination]]
-	- [[10-19 School/15 Humanities/15.01 Religion/Qualifications for a Pastor\|Qualifications for a Pastor]]
-	- **[REL1011 Introduction to New Testament](./15.01%20Religion/REL1011%20Introduction%20to%20New%20Testament/REL1011%20Introduction%20to%20New%20Testament.md)**
-	- [[10-19 School/15 Humanities/15.01 Religion/The Hypostatic Union\|The Hypostatic Union]]
-	- [[10-19 School/15 Humanities/15.01 Religion/The Seven Churches of Asia Minor\|The Seven Churches of Asia Minor]]
-- **15.02 Philosophy**
-	- **[PHL1112 Survey of Competing Worldviews](./15.02%20Philosophy/PHL1112%20Survey%20of%20Competing%20Worldviews/PHL1112%20Survey%20of%20Competing%20Worldviews.md)**
-		- [[10-19 School/15 Humanities/15.02 Philosophy/PHL1112 Survey of Competing Worldviews/Induction vs Deduction\|Induction vs Deduction]]
-- **15.03 History**
-	- **People**
-		- [[10-19 School/15 Humanities/15.03 History/People/Antiochus Epiphanes\|Antiochus Epiphanes]]
-		- [[10-19 School/15 Humanities/15.03 History/People/Karl Popper\|Karl Popper]]
-
+> [!map] Children
+>  - [[10-19 School/15 Humanities/15.01 Religion/15.01 Religion\|15.01 Religion]]
+> - [[10-19 School/15 Humanities/15.02 Philosophy/15.02 Philosophy\|15.02 Philosophy]]
+> - [[10-19 School/15 Humanities/15.03 History/15.03 History\|15.03 History]]
+> 
+{ .block-language-dataview}
